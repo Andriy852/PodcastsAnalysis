@@ -20,7 +20,7 @@ The true-crime and kids-family-stories-for-kids genres tend to collect the most 
 
 
 ### Source:
-The data was downloaded on kaggle website: https://www.kaggle.com/datasets/thoughtvector/podcastreviews/versions/28 in the sqlite format. We turned the required tables into separate csv files for our analysis. Reviews table in csv format was too big to upload to github. Therefore, we split it into 7 separate files and then concatenated in the notebook.
+The data was downloaded on kaggle website: https://www.kaggle.com/datasets/thoughtvector/podcastreviews/versions/28 in the sqlite format. We turned the required tables into separate csv files for our analysis.
 
 
 To run the notebook, install the following dependencies:
