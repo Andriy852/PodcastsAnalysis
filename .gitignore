@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+src/.DS_Store
+.src/ipynb_checkpoints/
+.DS_Store
+src/categories.csv
+src/podcasts.csv
+src/reviews.csv
